@@ -1,0 +1,70 @@
+body {
+  background-image: url("../../images/home_bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(185, 123, 247);
+  font-weight: 600;
+}
+
+#click_here {
+  margin-top: -10px;
+  width: 100%;
+  margin-left: 100px;
+  text-align: center;
+  /* align-items: center; */
+}
+#click_here a {
+  color: rgb(185, 123, 247);
+  font-weight: 700;
+  font-size: 1.2em;
+  text-decoration: underline;
+}
+
+#click_here a:hover {
+  color: #53abf8;
+}
+/*
+.well {
+    background: rgba(0, 0, 0, 0.7);
+    border: none;
+   
+}
+*/
+.btn-primary {
+  background-color: rgb(185, 123, 247);
+  color: rebeccapurple;
+  font-weight: 600;
+  font-size: 1.2em !important;
+}
+.btn-lg {
+  width: 120px !important;
+}
+.btn-primary:hover {
+  background-color: #53abf8;
+  color: rebeccapurple;
+}
+
+.container {
+  width: 60%;
+  margin-top: 10px;
+}
+.well {
+  background-color: rebeccapurple;
+}
+
+label {
+  color: rgb(211, 167, 255);
+  /* #ffbb2b; */
+  font-size: 13px;
+  font-weight: 100;
+}
+
+.button {
+  width: 100px;
+  float: right;
+  font-size: 13px;
+}
