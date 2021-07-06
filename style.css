@@ -1,0 +1,46 @@
+.nav li a {
+  font-size: 1.2em !important;
+  color: rgb(185, 123, 247) !important;
+}
+.nav li a:hover {
+  color: white !important;
+}
+.btn-danger {
+  background-color: rgb(185, 123, 247);
+  color: rebeccapurple;
+  font-weight: 550;
+  /* font-size: 1.2em !important; */
+}
+h6{
+  font-size: 1em !important;
+}
+.btn-primary{
+    background-color: rgb(185, 123, 247) !important;
+    color: rebeccapurple !important;
+    font-weight: 550 !important;
+}
+.btn-primary:hover{
+background-color: #53abf8 !important;
+    color: rebeccapurple !important;
+}
+
+.well ul li{
+    font-size: 1.2em !important;
+    list-style-type: none;
+  }
+
+  .well ul li a{
+  color: rgb(255, 255, 255) !important;
+}
+
+.well ul li a:hover{
+    color: #53abf8 !important;
+    text-decoration: none;
+}
+
+
+ .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff !important;
+    background-color: #080808;
+
+
